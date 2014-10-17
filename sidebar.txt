@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[neg:home|Door43 (neg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-neg|d43-neg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-neg/archive/master.zip|d43-neg.zip]]
+
+**Recent Changes**
+{{changes>ns = neg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/neg|Ethnologue data]]
+
